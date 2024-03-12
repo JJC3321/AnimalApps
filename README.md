@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Twitch sign up page for phone:
 
-<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='shot-img' width='500' alt='Twitch screenshot' />
+<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='shot-img' width='300' alt='Twitch screenshot' />
 
 ## Video Demo
 
