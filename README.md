@@ -8,8 +8,7 @@ Time spent: 20 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
-
+This imitation of sign-in page from the Twitch 
 
 ## Application Features
 
