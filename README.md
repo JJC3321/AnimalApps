@@ -4,7 +4,7 @@
 
 Submitted by: Jian Jin Chen
 
-Time spent: **X** hours spent in total
+Time spent: 20 hours spent in total
 
 ## Summary
 
@@ -45,14 +45,10 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![Project3](https://github.com/JJC3321/AnimalApps/assets/122761865/327071bc-9a89-48f8-ab4c-f892d13d8863)
 
-GIF created with **your chosen GIF tool**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif
 
 ## Original App Layout (Optional Stretch Feature)
 
@@ -68,7 +64,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright 2024 Jian Jin Chen
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
