@@ -38,8 +38,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the Twitch sign up page for phone:
 
-![twitchSignUp](https://github.com/JJC3321/AnimalApps/assets/122761865/742f80be-f4e9-4fc5-aabe-4986c0f1dc4d)
-
+<img src='https://cdn.designvault.io/media/20230109205844/image-27.jpg' title='shot-img' width='500' alt='Twitch screenshot' />
 
 ## Video Demo
 
