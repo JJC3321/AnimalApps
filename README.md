@@ -39,7 +39,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://designvault.io/shot/1828-0901232058/' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
@@ -60,7 +60,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='https://designvault.io/shot/1828-0901232058/' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
