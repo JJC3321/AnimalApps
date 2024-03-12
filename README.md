@@ -36,9 +36,10 @@ The following EXTRA features are implemented:
 
 ## Chosen Screenshot
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the Twitch sign up page for phone:
 
-<img src='https://designvault.io/shot/1828-0901232058/' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![twitchSignUp](https://github.com/JJC3321/AnimalApps/assets/122761865/742f80be-f4e9-4fc5-aabe-4986c0f1dc4d)
+
 
 ## Video Demo
 
